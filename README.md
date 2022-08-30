@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on some open source projects.
 
-- 🌱 I’m currently learning Devops tools and coding 
+- 🌱 I’m currently learning Devops tools and coding. 
 
-- 👯 I’m looking to collaborate on AWS Cloud and Devops  Projects,Tech Articles 
+- 👯 I’m looking to collaborate on AWS Cloud and Devops  Projects,Tech Articles. 
 
-- 💬 Talk to me about AWS Cloud , Devops,  Freelancing Opportunities, Open Source 
+- 💬 Talk to me about AWS Cloud , Devops,  Freelancing Opportunities, Open Source. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
@@ -44,8 +44,6 @@
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=mariadb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
 <a href= https://github.com/venkat-s?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 
@@ -54,8 +52,8 @@
 <a href = 'https://www.github.com/venkat-s'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<h2> Stuff I worked on last week  <img src = "https://github.com/venkat-s/Ansible-infra/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<a href="https://github.com/venkat-s/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@VENKAT-S&compact=True"/>
 </a>
 <br>
@@ -66,7 +64,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=venkat-s&count_private=true&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/venkat-s/Ansible-infra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-s&theme=default" />
 </a>
 
